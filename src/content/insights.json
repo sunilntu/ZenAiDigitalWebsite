@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "enterprise-ai-is-an-architecture-question",
+    "title": "Enterprise AI is an architecture question, not only a model question",
+    "description": "Why enterprise AI value depends on capabilities, information, integration, governance and operating model choices around the model.",
+    "date": "2026-09-29",
+    "category": "Enterprise AI Architecture",
+    "readMinutes": 5,
+    "body": [
+      "A model can generate impressive output without creating durable enterprise value. The harder problem is connecting AI to the capabilities, information, workflows, controls and accountabilities that already shape how an organisation works.",
+      "That makes enterprise AI an architecture question. The model is one component inside a larger socio-technical system: business intent, people, information, applications, integration, infrastructure, governance and measurable outcomes all matter.",
+      "A useful starting point is to move from isolated proofs of concept toward explicit target capabilities. Ask what decision or workflow will improve, what information is required, where human judgement stays essential, which controls must be evidenced, and how the solution will integrate into the operating environment.",
+      "Architecture should not slow experimentation. Its role is to make experiments easier to compare, safer to scale and more likely to produce reusable enterprise capability."
+    ]
+  },
+  {
+    "slug": "prioritise-ai-use-cases-with-evidence",
+    "title": "Prioritise AI use cases with evidence, not enthusiasm",
+    "description": "A practical way to compare AI opportunities across value, feasibility, data readiness, risk and adoption impact.",
+    "date": "2026-09-29",
+    "category": "AI Strategy",
+    "readMinutes": 4,
+    "body": [
+      "Most organisations can generate a long list of possible AI use cases. The strategic challenge is not idea generation; it is deciding which opportunities deserve scarce attention, data, engineering and change capacity.",
+      "A useful portfolio view compares business value with feasibility, information readiness, risk, architectural fit and adoption impact. This creates a common language for discussing opportunities that otherwise look incomparable.",
+      "The goal is not to produce a perfect score. It is to expose assumptions, identify evidence gaps and sequence experiments so that learning compounds. High-value opportunities with major data or control gaps may need enabling work before a prototype is worthwhile.",
+      "A transparent prioritisation method also improves governance because decision makers can see why one use case was advanced and another was deferred."
+    ]
+  },
+  {
+    "slug": "from-ai-pilots-to-enterprise-capability",
+    "title": "From AI pilots to enterprise capability",
+    "description": "Five transitions that help organisations move from experimentation to repeatable, governed AI capability.",
+    "date": "2026-09-29",
+    "category": "Transformation",
+    "readMinutes": 6,
+    "body": [
+      "Pilots are valuable because they reduce uncertainty. Problems appear when every pilot is treated as a separate technology experiment with no path into the enterprise operating model.",
+      "The transition to capability requires five connected moves: clarify the outcome, assess the starting point, architect the target capability, build a bounded implementation, and transform the surrounding operating model so the solution can be adopted and governed.",
+      "This sequence is deliberately iterative. What is learned during build may change the architecture; what is learned during adoption may change the process, controls or even the original business outcome.",
+      "The measure of progress is therefore not the number of pilots. It is whether the organisation becomes better able to select, design, govern, deploy and improve AI-enabled capabilities repeatedly."
+    ]
+  }
+]

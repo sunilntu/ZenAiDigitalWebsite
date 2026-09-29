@@ -1,0 +1,67 @@
+[
+  {
+    "slug":"enterprise-ai-transformation",
+    "title":"Enterprise AI Transformation Capability Program",
+    "description":"A flagship, research-informed program for leaders and practitioners who need to transform enterprise capability rather than deploy isolated AI initiatives.",
+    "audience":"Executives, transformation leaders, enterprise architects and AI leaders",
+    "format":"Capability program / workshop series",
+    "duration":"Configurable",
+    "lifecycle":"published",
+    "availability":"Register interest",
+    "featured":true,
+    "order":1,
+    "outcomes":["Frame AI transformation as enterprise transformation","Assess current and target capabilities","Identify transformation constraints and dependencies","Design a prioritised transformation roadmap","Apply learning to a real organisational context"]
+  },
+  {
+    "slug":"enterprise-ai-architecture",
+    "title":"Enterprise AI Architecture Capability Program",
+    "description":"Build practical capability to connect AI strategy to target architecture, information, integration, platforms, governance and transition roadmaps.",
+    "audience":"Enterprise architects, solution architects, transformation and technology leaders",
+    "format":"Course + architecture labs + applied case",
+    "duration":"Configurable",
+    "lifecycle":"published",
+    "availability":"Register interest",
+    "featured":true,
+    "order":2,
+    "outcomes":["Define enterprise AI architecture principles","Develop capability and information views","Design AI and agent integration patterns","Create target-state and transition architectures","Apply governance and assurance to architecture decisions"]
+  },
+  {
+    "slug":"ai-governance-leaders",
+    "title":"AI Governance for Leaders",
+    "description":"Connect AI opportunity, accountability, risk, information governance and operating-model decisions into a practical enterprise governance approach.",
+    "audience":"Executives, governance leaders, architects and transformation professionals",
+    "format":"Executive masterclass / applied workshop",
+    "duration":"Configurable",
+    "lifecycle":"published",
+    "availability":"Register interest",
+    "featured":false,
+    "order":3,
+    "outcomes":["Clarify decision rights and accountability","Connect governance to delivery and architecture","Identify risk and assurance needs","Design proportionate controls","Create an actionable governance improvement plan"]
+  },
+  {
+    "slug":"agentic-ai-enterprise",
+    "title":"Agentic AI for the Enterprise",
+    "description":"Explore how AI agents change business processes, decision architecture, integration, governance and the design of human-AI operating models.",
+    "audience":"Architects, AI leaders and transformation practitioners",
+    "format":"Masterclass / architecture lab",
+    "duration":"To be announced",
+    "lifecycle":"draft",
+    "availability":"Coming soon",
+    "featured":false,
+    "order":4,
+    "outcomes":["Understand agentic patterns","Map human-agent responsibilities","Design integration and information boundaries","Consider governance and observability","Identify enterprise adoption implications"]
+  },
+  {
+    "slug":"legacy-example",
+    "title":"Archived example course",
+    "description":"This record demonstrates the archive lifecycle and is intentionally not published.",
+    "audience":"Internal",
+    "format":"Archived",
+    "duration":"N/A",
+    "lifecycle":"archived",
+    "availability":"Archived",
+    "featured":false,
+    "order":99,
+    "outcomes":[]
+  }
+]

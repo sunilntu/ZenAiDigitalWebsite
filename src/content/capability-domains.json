@@ -1,0 +1,12 @@
+[
+  {"id":"strategy","name":"Strategy & Value","description":"AI ambition, business outcomes, investment logic, use-case portfolio and benefits realisation."},
+  {"id":"operating-model","name":"Leadership & Operating Model","description":"Ownership, decision rights, funding, accountability and enterprise operating model."},
+  {"id":"business","name":"Business Capabilities & Processes","description":"Capability change, process redesign, automation opportunities and human-AI work allocation."},
+  {"id":"information","name":"Information, Knowledge & Data","description":"Data quality, semantics, knowledge, metadata, context and information governance."},
+  {"id":"architecture","name":"Enterprise & AI Architecture","description":"Target architecture, integration, platforms, models, agents and interoperability."},
+  {"id":"engineering","name":"AI Engineering & Delivery","description":"Experimentation, evaluation, deployment, LLMOps/MLOps, agent engineering and monitoring."},
+  {"id":"governance","name":"Governance, Risk & Trust","description":"Responsible AI, privacy, security, assurance, model and agent governance."},
+  {"id":"people","name":"People, Skills & Culture","description":"AI literacy, specialist capability, workforce redesign, leadership and adoption."},
+  {"id":"change","name":"Transformation & Change","description":"Portfolio management, roadmap, organisational change and implementation capability."},
+  {"id":"measurement","name":"Measurement & Continuous Evolution","description":"KPIs, value realisation, capability validation, feedback and continuous improvement."}
+]

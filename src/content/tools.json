@@ -1,0 +1,30 @@
+[
+  {
+    "slug":"enterprise-ai-transformation-capability",
+    "title":"Enterprise AI Transformation Capability Assessment",
+    "status":"Interactive preview",
+    "summary":"A whole-of-enterprise capability assessment across strategy, operating model, business, information, architecture, engineering, governance, people, change and measurement.",
+    "featured":true
+  },
+  {
+    "slug":"transformation-bottleneck",
+    "title":"AI Transformation Bottleneck Assessment",
+    "status":"Planned",
+    "summary":"Identify which capability or dependency is most likely to constrain sustainable AI transformation.",
+    "featured":true
+  },
+  {
+    "slug":"use-case-prioritisation",
+    "title":"AI Use-Case Prioritisation",
+    "status":"Planned",
+    "summary":"Compare opportunities using value, feasibility, information readiness, risk, architecture fit and change effort.",
+    "featured":false
+  },
+  {
+    "slug":"enterprise-ai-architecture",
+    "title":"Enterprise AI Architecture Assessment",
+    "status":"Planned",
+    "summary":"Assess target architecture, integration, information, platform, agent, security and governance capability.",
+    "featured":false
+  }
+]

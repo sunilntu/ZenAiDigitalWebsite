@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">ZenAI Digital placeholder logo</title>
+  <desc id="desc">Replace this file with the final ZenAI Digital logo while keeping the same filename.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#6ee7d8"/><stop offset="1" stop-color="#78a7ff"/></linearGradient></defs>
+  <rect x="4" y="4" width="112" height="112" rx="30" fill="#0b1527" stroke="#355079" stroke-width="4"/>
+  <path d="M31 36h58L43 84h48" fill="none" stroke="url(#g)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="142" y="74" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#10203a">ZenAI Digital</text>
+</svg>

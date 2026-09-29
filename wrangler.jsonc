@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "zenai-digital-website",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-29",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*", "/verify"]
+  }
+
+  // AFTER you create the D1 database, add a comma after the assets block above
+  // and add this binding (replace the database_id):
+  // ,"d1_databases": [
+  //   {
+  //     "binding": "DB",
+  //     "database_name": "zenaidigital-db",
+  //     "database_id": "PASTE_YOUR_D1_DATABASE_ID_HERE"
+  //   }
+  // ]
+}

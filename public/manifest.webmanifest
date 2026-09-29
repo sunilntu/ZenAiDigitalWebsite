@@ -1,0 +1,9 @@
+{
+  "name": "ZenAI Digital",
+  "short_name": "ZenAI Digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08101f",
+  "theme_color": "#08101f",
+  "icons": []
+}

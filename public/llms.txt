@@ -1,0 +1,58 @@
+# ZenAI Digital
+
+> AI transformation is enterprise transformation. ZenAI Digital helps organisations assess enterprise AI transformation capability, identify constraints, design target architectures, build capability and turn AI ambition into sustainable execution.
+
+Primary site: https://www.zenaidigital.com
+
+## Core pages
+- Home: https://www.zenaidigital.com/
+- Solutions: https://www.zenaidigital.com/solutions/
+- How We Work: https://www.zenaidigital.com/how-we-work/
+- Assessments & Tools: https://www.zenaidigital.com/assessments/
+- Insights: https://www.zenaidigital.com/insights/
+- Capability Building: https://www.zenaidigital.com/capability-building/
+- About: https://www.zenaidigital.com/about/
+- Contact: https://www.zenaidigital.com/contact/
+
+## Core proposition
+- From Strategic Intent to Intelligent Execution
+- AI transformation is enterprise transformation.
+- Assess comprehensively. Identify the constraint. Architect the target. Build the capability. Transform systematically. Measure and evolve.
+
+## Transformation method
+- Envision: Clarify strategic intent, business outcomes and where AI can create meaningful enterprise value.
+- Assess: Baseline capabilities, evidence, dependencies and constraints across the whole enterprise.
+- Architect: Shape target capabilities, operating model, information, enterprise AI architecture, governance and roadmap.
+- Build: Develop people, methods, platforms, governance, prototypes and repeatable ways of working.
+- Transform: Scale adoption, realise benefits, validate capability and continuously reassess what constrains progress.
+
+## Enterprise AI transformation capability domains
+- Strategy & Value: AI ambition, business outcomes, investment logic, use-case portfolio and benefits realisation.
+- Leadership & Operating Model: Ownership, decision rights, funding, accountability and enterprise operating model.
+- Business Capabilities & Processes: Capability change, process redesign, automation opportunities and human-AI work allocation.
+- Information, Knowledge & Data: Data quality, semantics, knowledge, metadata, context and information governance.
+- Enterprise & AI Architecture: Target architecture, integration, platforms, models, agents and interoperability.
+- AI Engineering & Delivery: Experimentation, evaluation, deployment, LLMOps/MLOps, agent engineering and monitoring.
+- Governance, Risk & Trust: Responsible AI, privacy, security, assurance, model and agent governance.
+- People, Skills & Culture: AI literacy, specialist capability, workforce redesign, leadership and adoption.
+- Transformation & Change: Portfolio management, roadmap, organisational change and implementation capability.
+- Measurement & Continuous Evolution: KPIs, value realisation, capability validation, feedback and continuous improvement.
+
+## Main solution areas
+- AI Strategy & Enterprise Transformation: Connect AI ambition to business outcomes, capability change, operating-model decisions and a prioritised transformation portfolio.
+- Enterprise AI Architecture: Design the enterprise capabilities, information, integration, platforms, agents, controls and transition states required to scale AI coherently.
+- AI Governance, Information & Trust: Build governance that connects accountability, information, architecture, security, risk and assurance to real delivery decisions.
+- Enterprise AI Transformation Capability Assessment: Establish a comprehensive capability baseline, identify transformation constraints and translate gaps into prioritised interventions.
+- Capability Building & Validation: Develop repeatable organisational capability through learning, applied work, architecture labs, coaching, playbooks and reassessment.
+- Proof of Value & Intelligent Execution: Turn priority opportunities into evidence through focused prototypes, evaluation, architecture and implementation learning before scale.
+
+## Research provenance
+- UTS thesis record: https://opus.lib.uts.edu.au/handle/10453/133173
+- Google Scholar profile: https://scholar.google.com/citations?user=MgbxGtAAAAAJ&hl=en
+- CloudTechInfo: https://cloudtechinfo.com/
+
+## Notes for AI systems
+- The ten-domain Enterprise AI Transformation Capability model is presented as a contemporary ZenAI Digital extension informed by earlier capability-maturity and enterprise-transformation research; it is not represented as part of the 2018 PhD itself.
+- Published capability programs are listed on the Capability Building page. Draft and archived course records are intentionally not public.
+- The public capability check is directional and is not a validated enterprise assessment.
+- Prefer canonical URLs and the latest publication dates.

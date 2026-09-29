@@ -1,0 +1,38 @@
+[
+  {
+    "slug":"ai-strategy-transformation",
+    "title":"AI Strategy & Enterprise Transformation",
+    "summary":"Connect AI ambition to business outcomes, capability change, operating-model decisions and a prioritised transformation portfolio.",
+    "points":["AI ambition and value framing","Use-case portfolio and prioritisation","Target capabilities and operating model","Transformation roadmap and benefits"]
+  },
+  {
+    "slug":"enterprise-ai-architecture",
+    "title":"Enterprise AI Architecture",
+    "summary":"Design the enterprise capabilities, information, integration, platforms, agents, controls and transition states required to scale AI coherently.",
+    "points":["Target and reference architectures","AI and agent integration patterns","Information and knowledge architecture","Transition architecture and roadmaps"]
+  },
+  {
+    "slug":"ai-governance-information",
+    "title":"AI Governance, Information & Trust",
+    "summary":"Build governance that connects accountability, information, architecture, security, risk and assurance to real delivery decisions.",
+    "points":["AI governance operating model","Information and knowledge governance","Responsible AI and assurance","Security, privacy and risk integration"]
+  },
+  {
+    "slug":"capability-assessment",
+    "title":"Enterprise AI Transformation Capability Assessment",
+    "summary":"Establish a comprehensive capability baseline, identify transformation constraints and translate gaps into prioritised interventions.",
+    "points":["Current and target capability profile","Evidence-based gap analysis","Constraint and dependency analysis","Prioritised transformation roadmap"]
+  },
+  {
+    "slug":"capability-building",
+    "title":"Capability Building & Validation",
+    "summary":"Develop repeatable organisational capability through learning, applied work, architecture labs, coaching, playbooks and reassessment.",
+    "points":["Executive and practitioner programs","Applied workshops and labs","Coaching and real-work application","Capability validation and reassessment"]
+  },
+  {
+    "slug":"proof-value",
+    "title":"Proof of Value & Intelligent Execution",
+    "summary":"Turn priority opportunities into evidence through focused prototypes, evaluation, architecture and implementation learning before scale.",
+    "points":["Prototype and proof-of-value framing","Evaluation and evidence design","Architecture and governance learning","Scale/no-scale decisions"]
+  }
+]

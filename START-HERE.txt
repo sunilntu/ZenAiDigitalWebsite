@@ -1,0 +1,32 @@
+ZENAI DIGITAL V2 — START HERE
+
+1. DO NOT upload this ZIP itself to GitHub.
+2. Extract the ZIP on your Windows PC.
+3. The extracted folder is your LOCAL working copy.
+4. Use GitHub Desktop to connect/sync the local folder with your GitHub.com repository.
+5. GitHub.com is the cloud source of truth.
+6. Connect the GitHub.com repository to Cloudflare Workers Builds.
+7. Future workflow: edit locally -> build/test -> GitHub Desktop commit -> Push origin -> GitHub.com -> Cloudflare automatic deployment.
+
+ROUTINE CONTENT
+- Navigation tabs: src/content/site.json
+- Courses/capability programs: src/content/courses.json
+- Solutions: src/content/solutions.json
+- Assessments/tools: src/content/tools.json
+- Capability model: src/content/capability-domains.json
+- Insights: src/content/insights.json
+
+COURSE LIFECYCLE
+- draft = not public
+- published = public
+- archived = retained but not public
+
+IMPORTANT BEFORE PUBLIC LAUNCH
+- Replace placeholder logo files in static/assets/brand/
+- Confirm siteUrl and contactEmail in src/content/site.json
+- Verify exact book metadata before publishing book titles/details
+- Create/configure D1, Turnstile and Resend secrets
+- Replace the technical privacy starter with a notice matching the actual business/legal setup
+- Run accessibility, responsive and browser testing
+
+Read README.md and docs/ next.

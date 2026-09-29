@@ -1,0 +1,13 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+# Search visibility is allowed while model-training crawling is disabled by default.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /verify
+
+Sitemap: https://www.zenaidigital.com/sitemap.xml
