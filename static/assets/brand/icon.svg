@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#6ee7d8"/><stop offset="1" stop-color="#78a7ff"/></linearGradient></defs><rect width="128" height="128" rx="30" fill="#0b1527"/><path d="M30 37h68L43 92h58" fill="none" stroke="url(#g)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">ZenAI Digital</title>
+  <desc id="desc">Connected Z symbol for ZenAI Digital.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f9fe8"/>
+      <stop offset="1" stop-color="#20c7d4"/>
+    </linearGradient>
+    <linearGradient id="zgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a7eff3"/>
+      <stop offset="0.55" stop-color="#20c7d4"/>
+      <stop offset="1" stop-color="#2f9fe8"/>
+    </linearGradient>
+  </defs>
+  <rect x="5" y="5" width="118" height="118" rx="29" fill="#071b3f" stroke="url(#frame)" stroke-width="5"/>
+  <path d="M27 32h67L41 94h58" fill="none" stroke="url(#zgrad)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29 94L64 73L96 42" fill="none" stroke="#20c7d4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64 73L96 42" fill="none" stroke="#d9a62e" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="29" cy="94" r="8" fill="#2f9fe8"/>
+  <circle cx="64" cy="73" r="8" fill="#20c7d4"/>
+  <circle cx="96" cy="42" r="8" fill="#d9a62e"/>
+</svg>

@@ -18,7 +18,7 @@
     .then(r => r.json())
     .then(config => {
       if (!config.turnstileSiteKey) {
-        setStatus('The enquiry form is awaiting final security configuration. Please use the email address shown on this page for now.', 'warning');
+        setStatus('We are completing the final email-verification setup. In the meantime, please contact us at info@cloudtechinfo.com.', 'warning');
         submit.disabled = true;
         return;
       }

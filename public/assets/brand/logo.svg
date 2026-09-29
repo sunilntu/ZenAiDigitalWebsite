@@ -1,8 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
-  <title id="title">ZenAI Digital placeholder logo</title>
-  <desc id="desc">Replace this file with the final ZenAI Digital logo while keeping the same filename.</desc>
-  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#6ee7d8"/><stop offset="1" stop-color="#78a7ff"/></linearGradient></defs>
-  <rect x="4" y="4" width="112" height="112" rx="30" fill="#0b1527" stroke="#355079" stroke-width="4"/>
-  <path d="M31 36h58L43 84h48" fill="none" stroke="url(#g)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="142" y="74" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#10203a">ZenAI Digital</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 120" role="img" aria-labelledby="title desc">
+  <title id="title">ZenAI Digital</title>
+  <desc id="desc">ZenAI Digital logo with a connected Z symbol representing intelligence, transformation and value.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f9fe8"/>
+      <stop offset="1" stop-color="#20c7d4"/>
+    </linearGradient>
+    <linearGradient id="zgrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a7eff3"/>
+      <stop offset="0.55" stop-color="#20c7d4"/>
+      <stop offset="1" stop-color="#2f9fe8"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="5" y="5" width="110" height="110" rx="27" fill="#071b3f" stroke="url(#frame)" stroke-width="5"/>
+  <path d="M27 31h61L40 87h53" fill="none" stroke="url(#zgrad)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 87L61 68L91 40" fill="none" stroke="#20c7d4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M61 68L91 40" fill="none" stroke="#d9a62e" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="28" cy="87" r="8" fill="#2f9fe8"/>
+  <circle cx="61" cy="68" r="8" fill="#20c7d4"/>
+  <circle cx="91" cy="40" r="8" fill="#d9a62e"/>
+
+  <text x="139" y="79" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="57" font-weight="800" letter-spacing="-2">
+    <tspan fill="#071b3f">Zen</tspan><tspan fill="#20bfcf">AI</tspan><tspan fill="#071b3f"> Digital</tspan>
+  </text>
 </svg>
