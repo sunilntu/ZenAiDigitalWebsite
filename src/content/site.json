@@ -14,41 +14,147 @@
     "role": "Founder, ZenAI Digital",
     "summary": "Research-led practitioner working across enterprise architecture, digital transformation, capability maturity and enterprise AI.",
     "links": [
-      {"label":"UTS PhD thesis","href":"https://opus.lib.uts.edu.au/handle/10453/133173"},
-      {"label":"Google Scholar","href":"https://scholar.google.com/citations?user=MgbxGtAAAAAJ&hl=en"},
-      {"label":"LinkedIn","href":"https://www.linkedin.com/in/sunilkempegowda/"},
-      {"label":"LinkedIn articles","href":"https://www.linkedin.com/in/sunilkempegowda/recent-activity/articles/"},
-      {"label":"CloudTechInfo","href":"https://cloudtechinfo.com/"},
-      {"label":"CloudTechInfo articles","href":"https://cloudtechinfo.com/blog-grid/"},
-      {"label":"YouTube","href":"https://www.youtube.com/@digitaltransformationinnov9026"},
-      {"label":"Book link 1","href":"https://amzn.asia/d/05rPGJg2"},
-      {"label":"Book link 2","href":"https://amzn.asia/d/06lYNqmY"}
+      {
+        "label": "UTS PhD thesis",
+        "href": "https://opus.lib.uts.edu.au/handle/10453/133173"
+      },
+      {
+        "label": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=MgbxGtAAAAAJ&hl=en"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/sunilkempegowda/"
+      },
+      {
+        "label": "LinkedIn articles",
+        "href": "https://www.linkedin.com/in/sunilkempegowda/recent-activity/articles/"
+      },
+      {
+        "label": "CloudTechInfo",
+        "href": "https://cloudtechinfo.com/"
+      },
+      {
+        "label": "CloudTechInfo articles",
+        "href": "https://cloudtechinfo.com/blog-grid/"
+      },
+      {
+        "label": "YouTube",
+        "href": "https://www.youtube.com/@digitaltransformationinnov9026"
+      },
+      {
+        "label": "Book link 1",
+        "href": "https://amzn.asia/d/05rPGJg2"
+      },
+      {
+        "label": "Book link 2",
+        "href": "https://amzn.asia/d/06lYNqmY"
+      }
     ]
   },
-  "primaryCta": {"label":"Assess your AI transformation","href":"/assessments/"},
-  "secondaryCta": {"label":"Explore solutions","href":"/solutions/"},
+  "primaryCta": {
+    "label": "Assess your AI transformation",
+    "href": "/assessments/"
+  },
+  "secondaryCta": {
+    "label": "Explore solutions",
+    "href": "/solutions/"
+  },
   "nav": [
-    {"label":"Home","href":"/","order":1,"enabled":true},
-    {"label":"Solutions","href":"/solutions/","order":2,"enabled":true},
-    {"label":"How We Work","href":"/how-we-work/","order":3,"enabled":true},
-    {"label":"Assessments & Tools","href":"/assessments/","order":4,"enabled":true},
-    {"label":"Insights","href":"/insights/","order":5,"enabled":true},
-    {"label":"Capability Building","href":"/capability-building/","order":6,"enabled":true},
-    {"label":"About","href":"/about/","order":7,"enabled":true}
+    {
+      "label": "Home",
+      "href": "/",
+      "order": 1,
+      "enabled": true
+    },
+    {
+      "label": "Solutions",
+      "href": "/solutions/",
+      "order": 2,
+      "enabled": true
+    },
+    {
+      "label": "How We Work",
+      "href": "/how-we-work/",
+      "order": 3,
+      "enabled": true
+    },
+    {
+      "label": "Assessments & Tools",
+      "href": "/assessments/",
+      "order": 4,
+      "enabled": true
+    },
+    {
+      "label": "Insights",
+      "href": "/insights/",
+      "order": 5,
+      "enabled": true
+    },
+    {
+      "label": "Capability Building",
+      "href": "/capability-building/",
+      "order": 6,
+      "enabled": true
+    },
+    {
+      "label": "About",
+      "href": "/about/",
+      "order": 7,
+      "enabled": true
+    }
   ],
   "method": [
-    {"name":"Envision","verb":"Create the future","description":"Clarify strategic intent, business outcomes and where AI can create meaningful enterprise value."},
-    {"name":"Assess","verb":"Understand the enterprise","description":"Baseline capabilities, evidence, dependencies and constraints across the whole enterprise."},
-    {"name":"Architect","verb":"Design the target","description":"Shape target capabilities, operating model, information, enterprise AI architecture, governance and roadmap."},
-    {"name":"Build","verb":"Build the capability","description":"Develop people, methods, platforms, governance, prototypes and repeatable ways of working."},
-    {"name":"Transform","verb":"Embed and evolve","description":"Scale adoption, realise benefits, validate capability and continuously reassess what constrains progress."}
+    {
+      "name": "Envision",
+      "verb": "Create the future",
+      "description": "Clarify strategic intent, business outcomes and where AI can create meaningful enterprise value."
+    },
+    {
+      "name": "Assess",
+      "verb": "Understand the enterprise",
+      "description": "Baseline capabilities, evidence, dependencies and constraints across the whole enterprise."
+    },
+    {
+      "name": "Architect",
+      "verb": "Design the target",
+      "description": "Shape target capabilities, operating model, information, enterprise AI architecture, governance and roadmap."
+    },
+    {
+      "name": "Build",
+      "verb": "Build the capability",
+      "description": "Develop people, methods, platforms, governance, prototypes and repeatable ways of working."
+    },
+    {
+      "name": "Transform",
+      "verb": "Embed and evolve",
+      "description": "Scale adoption, realise benefits, validate capability and continuously reassess what constrains progress."
+    }
   ],
   "intentPaths": [
-    {"label":"Assess AI transformation capability","href":"/assessments/"},
-    {"label":"Develop an AI strategy","href":"/solutions/#ai-strategy-transformation"},
-    {"label":"Design enterprise AI architecture","href":"/solutions/#enterprise-ai-architecture"},
-    {"label":"Strengthen AI governance","href":"/solutions/#ai-governance-information"},
-    {"label":"Prioritise AI use cases","href":"/assessments/#use-case-prioritisation"},
-    {"label":"Build organisational capability","href":"/capability-building/"}
+    {
+      "label": "Assess AI transformation capability",
+      "href": "/assessments/"
+    },
+    {
+      "label": "Develop an AI strategy",
+      "href": "/solutions/#ai-strategy-transformation"
+    },
+    {
+      "label": "Design enterprise AI architecture",
+      "href": "/solutions/#enterprise-ai-architecture"
+    },
+    {
+      "label": "Strengthen AI governance",
+      "href": "/solutions/#ai-governance-information"
+    },
+    {
+      "label": "Prioritise AI use cases",
+      "href": "/assessments/#use-case-prioritisation"
+    },
+    {
+      "label": "Build organisational capability",
+      "href": "/capability-building/"
+    }
   ]
 }

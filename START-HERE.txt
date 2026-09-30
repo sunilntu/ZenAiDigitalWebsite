@@ -25,8 +25,13 @@ IMPORTANT BEFORE PUBLIC LAUNCH
 - Replace placeholder logo files in static/assets/brand/
 - Confirm siteUrl and contactEmail in src/content/site.json
 - Verify exact book metadata before publishing book titles/details
-- Create/configure D1, Turnstile and Resend secrets
+- Add your Web3Forms access key in src/content/site.json
 - Replace the technical privacy starter with a notice matching the actual business/legal setup
 - Run accessibility, responsive and browser testing
 
 Read README.md and docs/ next.
+
+
+CONTACT FORM QUICK SETUP
+------------------------
+Open src/content/site.json and replace PASTE_WEB3FORMS_ACCESS_KEY_HERE with your Web3Forms access key. Then run npm run build.

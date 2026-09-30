@@ -23,7 +23,7 @@ A maintainable, research-led website starter for **ZenAI Digital** built for Git
 - Clear distinction between the historical CCMM research foundation and the new AI-era ZenAI extension.
 - SEO + AI-discovery outputs: static HTML, sitemap, robots, RSS, JSON-LD and `llms.txt`.
 - Accessibility/UX baseline and intent-led navigation.
-- Verified-enquiry Worker architecture: Turnstile -> verification email -> active confirmation -> D1 write.
+- Simple contact workflow: Contact page -> visitor email application -> info@cloudtechinfo.com.
 - Redirect pages for the old `/method/`, `/tools/` and `/learning/` paths.
 
 ## Project structure
@@ -127,51 +127,14 @@ See `docs/RESEARCH-PROVENANCE.md`.
 
 The UTS doctoral/CCMM work is the research foundation. The 10-domain Enterprise AI Transformation Capability model is presented as a new AI-era ZenAI Digital extension. Do not imply that the 2018 thesis itself validated contemporary generative/agentic-AI domains.
 
-## Contact form and verified storage
+## Contact
 
-The Worker supports the intended sequence:
+The current release uses a deliberately basic email contact approach.
 
-1. Visitor submits the form.
-2. Server validates required fields.
-3. Cloudflare Turnstile is verified server-side.
-4. Personal information is encrypted into an expiring verification token; it is **not inserted into D1 at this point**.
-5. Resend sends the verification link to the submitted email.
-6. The visitor opens the link and actively confirms.
-7. The Worker writes the verified contact and enquiry to D1.
-8. Confirmation and business-notification emails are sent.
+- The Contact page displays `info@cloudtechinfo.com`.
+- The **Email ZenAI Digital** button opens the visitor's email application using a `mailto:` link.
+- The email subject is prefilled as `ZenAI Digital Enquiry`.
+- There is no Web3Forms, D1, Resend, Apps Script or verification-token workflow in this version.
+- Visitors may include a phone number in their email if they want a callback; it is not required.
 
-Email verification proves access to the mailbox; it does not prove the person's employer, role or other profile claims.
-
-See `docs/FORMS-AND-PRIVACY.md`.
-
-## Required Cloudflare secrets/variables
-
-Configure in Cloudflare, not GitHub:
-
-- `TURNSTILE_SITE_KEY`
-- `TURNSTILE_SECRET`
-- `VERIFY_TOKEN_SECRET`
-- `RESEND_API_KEY`
-- `EMAIL_FROM`
-- `BUSINESS_NOTIFY_EMAIL`
-
-Create the D1 database and add the `DB` binding in `wrangler.jsonc` as described in that file.
-
-## Logo
-
-Replace:
-
-- `static/assets/brand/logo.svg`
-- `static/assets/brand/icon.svg`
-
-Keep the filenames and the build will copy them into `public/` automatically.
-
-## Accessibility
-
-The production target should be WCAG 2.2 AA, subject to formal testing. See `docs/ACCESSIBILITY-UX.md`.
-
-## SEO and AI discovery
-
-The build generates indexable HTML, canonical metadata, structured data, sitemap, RSS, `robots.txt` and `llms.txt`. Search/AI discoverability still depends primarily on publishing useful, original, well-linked content and keeping source claims accurate.
-
-See `docs/SEO-AI-DISCOVERY.md`.
+This keeps the initial production site simple and dependable. A managed web form can be added later if enquiry volume justifies it.

@@ -1,0 +1,13 @@
+ZENAI DIGITAL - WEB3FORMS ACCESS KEY
+====================================
+
+1. Open: src/content/site.json
+2. Find:  PASTE_WEB3FORMS_ACCESS_KEY_HERE
+3. Replace it with the access key you received from Web3Forms.
+4. Save the file.
+5. Run: npm run build
+6. Run: npm run dev
+7. Test the Contact form locally.
+8. Commit and Push in GitHub Desktop.
+
+The access key is intended for use in client-side Web3Forms forms.
